@@ -1,0 +1,22 @@
+[2025-10-01 03:02:43 user] ¿Cómo se calculan las variables de las que no se dispone información de base?
+[2025-10-01 03:02:49 assistant] Según el texto proporcionado, las variables de las que no se dispone información de base se calculan mediante:
+
+1. Indicadores sintéticos y tasas teóricas.
+2. Coeficientes técnicos obtenidos de las cuentas nacionales anuales.
+3. En el caso de las actividades que no dispone de indicadores de base, se calculan mediante un enfoque de cálculo indirecto que implica:
+ * Deducción de otros usos (por ejemplo, consumo intermedio, consumo del gobierno, formación de capital fijo y variaciones de existencias) mediante coeficientes técnicos obtenidos de las cuentas nacionales anuales.
+4. El método indirecto se aplica específicamente para las actividades que no dispone de indicadores de base como animales vivos, silvicultura, minería, otros servicios.
+
+En resumen, se utilizan indicadores sintéticos y tasas
+[2025-10-01 03:03:15 user] ¿Cómo se calcula VAB?
+[2025-10-01 03:03:23 assistant] Según el texto proporcionado, se calcula el VAB (Valores Agregados Brutos por Industria/PIB) mediante un enfoque de cálculo indirecto que implica:
+
+1. Deducción de otros usos (por ejemplo, consumo intermedio, consumo del gobierno, formación de capital fijo y variaciones de existencias) mediante coeficientes técnicos obtenidos de las cuentas nacionales anuales.
+2. Utilizando indicadores sintéticos y tasas teóricas, que son producto de un enfoque de cálculo indirecto.
+
+En otras palabras, se utiliza un enfoque de cálculo indirecto para estimar el VAB, lo que implica:
+
+1. Deducción de otros usos de la oferta interna total.
+2. Utilizando indicadores sintéticos y tasas teóricas.
+
+Este enfoque se aplica específicamente para las actividades que no
